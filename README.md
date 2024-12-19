@@ -12,7 +12,7 @@
 ### UK Trains Analysis 
 
 ### Coffee Sales Analysis
-[Coffee] 
+[Coffee] (/Coffee sales 1.png)
 
 
 
